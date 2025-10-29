@@ -8,7 +8,7 @@ Para esse desafio eu usei como base apenas as explicações dadas e explicadas n
 
 # Arquitetura da Solução
 
-![clinica-medica](../imagens/clinica-medica.drawio.png)
+![clinica medica](../images/clinica-medica.drawio.png)
 
 # Esse fluxograma mostra:
 
