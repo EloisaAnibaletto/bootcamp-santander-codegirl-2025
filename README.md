@@ -1,7 +1,7 @@
 # Bootcamp Santander Code Girls 2025 - Minha Trajetória
 > Aqui você vai encontrar um pouco da minha jornada no Bootcamp Santander Code Girls 2025.
 
-# 📌 Quem sou eu
+# 😄 Quem sou eu
 Olá! Eu sou Eloisa Anibaletto, sou formada em Análise e Desenvolvimento de Sistemas e trabalho a 2 anos como Analista de Sistemas, analisando e codificando sistemas tanto back-end e front-end. Neste repositório, vou registrar certificados conquistados e desafios propostos dentro do bootcamp.
 
 # 🚀 Meus objetivos
